@@ -7,7 +7,10 @@
 - Delete Student
 - Update Student
 
-## Technologies Used
-- C++
+## Concepts Used
 - File Handling
-- OOPS Concepts
+- OOPS (Basic)
+- C++ Programming
+
+## Author
+Simran Kanchan
